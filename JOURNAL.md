@@ -24,7 +24,8 @@
 
 Today I got started on the tutorial project, starbie. The first thing I did was do research on what I needed to do for this. I was completely lost. I started out with making this github page (luckily i already had an account), and synced this all to the hack club website.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/NzwkJkWjOSIs1uEXkW9sj4Js8P9xg4Jf/c40486c33acc1bbf60d97b8a4e6f6ca7a44b383e1e7e6ba0b455a77760e1eb1f.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/NzwkJkWjOSIs1uEXkW9sj4Js8P9xg4Jf/a08c57b1de7c1f053844dee02c15d2eac1a048923852265e979e5014bb624747.png)
+
 Later, I downloaded KiCad and the first thing I noticed was that the guide was alittle vague when it came to getting the libraries on the application. But I googled it and i figured it out.
 Afterwards, I started doing the schematic. I'm completely new to all of this, so I didn't even know what a lot of the things that I had to put in the chematic stood for. The only thing that I knew was the resistor. The guide was pretty detailed when it came to this part,  but I kind of didn't follow the instructions on the first part, and didn't do a net on the components next to the microcontroller because I couldn't figure it out. So I just did wires instead. For all the other parts of the schematic I did the net though.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/NzwkJkWjOSIs1uEXkW9sj4Js8P9xg4Jf/6faeb28cfcaf766d564998d94291180ff999ef121947a21262e7c63b7b3dd298.png)
