@@ -10,6 +10,15 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0h | 0 |
+| Week 1 | Tier 1 | 2h | 1 |
 
-_No entries logged yet._
+# October 5th: First Day, trying to figure it all out
+
+Today I got started on the tutorial project, starbie. The first thing I did was do research on what I needed to do for this. I was completely lost. I started out with making this github page (luckily i already had an account), and synced this all to the hack club webiste. <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/322d1271-9e0a-43b8-9fb4-d46c2f77b694" />
+Later, I downloaded KiCad and the first thing I noticed was that the guide was alittle vague when it came to getting the libraries on the application. But I googled it and i figured it out.
+Afterwards, I started doing the schematic. I'm completely new to all of this, so I didn't even know what a lot of the things that I had to put in the chematic stood for. The only thing that I knew was the resistor. The guide was pretty detailed when it came to this part,  but I kind of didn't follow the instructions on the first part, and didn't do a net on the components next to the microcontroller because I couldn't figure it out. So I just did wires instead. For all the other parts of the schematic I did the net though. Afterwards, I did the footprint for the schematic and that was pretty easy! <img width="2940" height="1854" alt="image" src="https://github.com/user-attachments/assets/171a3c03-eb84-4556-9e9a-b6a48ded95d3" />
+Overall, I spent 30 minutes setting github and KiCad up, and an hour and 30 minutes for the schematic (yeah it's a lot). So it was 2 hours total for today.
+
+
+
+**Total time spent: 2h**
